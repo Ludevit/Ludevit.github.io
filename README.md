@@ -1,3 +1,3 @@
 Personal Blog
 
-- about tech, servers and operating systems
+- about tech, servers and operating systems.
