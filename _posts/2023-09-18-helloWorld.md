@@ -26,7 +26,7 @@ This is why i chose **Jekyll** there are a lot of nice themes ready to use and d
 
 ## Jekyll setup
 
-Setting up Jekyll was pretty easy on my WSL2 Ubuntu instance all you have to do is just follow installation steps on jekyll installation guide for Ubuntu (or whatever system are you running)
+Setting up Jekyll was pretty easy on my WSL2 Ubuntu instance all you have to do is just follow installation steps on jekyll installation guide for Ubuntu (or whatever system are you running).
 
 * https://jekyllrb.com/docs/installation/
 
