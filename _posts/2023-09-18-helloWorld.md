@@ -28,19 +28,19 @@ This is why i chose **Jekyll** there are a lot of nice themes ready to use and d
 
 Setting up Jekyll was pretty easy on my WSL2 Ubuntu instance all you have to do is just follow installation steps on jekyll installation guide for Ubuntu (or whatever system are you running).
 
-* https://jekyllrb.com/docs/installation/
+* [Jekyll documentaction for installation](https://jekyllrb.com/docs/installation/)
 
 when you are done installing Jekyll you have a choise of either making a theme yourself or just finding a free and opensouce jekyll theme on github.
 
 personally i went with premade theme called "Chirpy" by Cotes Chung because there was no point of reinveting the wheel for a blog site that is supposed to simple to use and maintain.
 
-* https://github.com/cotes2020/jekyll-theme-chirpy
+* [Chirpy reposetory on Github](https://github.com/cotes2020/jekyll-theme-chirpy)
 
 ## Setting up Jekyll theme Chirpy
 
 For setting up a Chirpy theme it is recomended to use theme on github called Chirpy starter.
 
-* https://github.com/cotes2020/chirpy-starter
+* [Chirpy starter template](https://github.com/cotes2020/chirpy-starter)
 
 Once you open the link click on **Use this template** in the corner where you would normally get link for cloning a repository.
 
@@ -48,7 +48,7 @@ Once you open the link click on **Use this template** in the corner where you wo
 
 If you want to use github pages to host your jekyll website while using template make sure to use GITHUBNAME.github.io please make sure to change 'GITHUBNAME' with **your** github name! Otherwise it will not work.
 
-* https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+* [Github pages Documentacion](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
 If you followed this correctly you now should now have a Github Pages website just copy name of the repository and paste it in to you browser.
 
@@ -56,6 +56,6 @@ If you followed this correctly you now should now have a Github Pages website ju
 
 One source that really helped me with this process is YouTube video from **Techno Tim** where he goes throught setup of jekyll and Chirpy theme.
 
-* https://www.youtube.com/watch?v=F8iOU1ci19Q
+* [Video from Techno Tim about deploying jekyll Website](https://www.youtube.com/watch?v=F8iOU1ci19Q)
 
 So incase this blog post did not help maybe watch his video, it's really good.
