@@ -5,7 +5,7 @@ categories: [Website, Ruby]
 tags: [tech]
 ---
 
-This is my fist post to my blog on github pages.
+This is my first post to my blog on github pages.
 
 Here in this post i would like to give so thoughts on setting up github pages as well as Jekyll and Jekyll theme.
 
