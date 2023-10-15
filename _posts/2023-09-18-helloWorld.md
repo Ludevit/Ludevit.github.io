@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Starting tech blog with Jekyll
 date: 2023-09-18 22:00:00 +0200
 categories: [Website, Ruby]
 tags: [tech]
